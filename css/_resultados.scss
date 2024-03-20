@@ -6,6 +6,11 @@
     text-align: center;
 }
 
+h2 {
+    margin-left: 25px;
+
+}
+
 h3 {
     background-color: rgba(220, 220, 230, 0.8);
     border: 0px solid #000;
@@ -30,4 +35,18 @@ h3 {
 
 p {
     padding: 10px;
+}
+
+.help-button {
+    background-color: #007bff;
+    border: none;
+    padding: 0px;
+    margin: 30px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    background-image: url("https://www.freepik.es/icono/linea_9694578#fromView=search&p age=1&position=2&uuid=cbdb5c14-c730-434b-8b16-cb3357b9cd81");
 }

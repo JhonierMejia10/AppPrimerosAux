@@ -23,7 +23,7 @@
 
 .header1 {
     flex-direction: column;
-    background-image: url(Images/PrimerosAuxilios1.jpg);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtLqYIK90ZpgIuY3HfkX9yHPxXJkZu8xzWYSjc2pMC5Q&s);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -47,7 +47,7 @@
 
 .header2 {
     flex-direction: column;
-    background-image: url(Images/PrimerosAuxilios2.png);
+    background-image: url(https://www.uniminuto.edu/sites/default/files/2023-06/PrimerosAuxiliosPsicologicos-TodoLoQueDebesSaber.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -71,7 +71,7 @@
 
 .header3 {
     flex-direction: column;
-    background-image: url(Images/PrimerosAuxilios3.jpg);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7_3PGwu9h2k1LbHL3Z8g0e-PW8vAZaStiFUXxHwpcyg&s);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -94,12 +94,13 @@
 }
 
 .header4 {
-    background-image: url(Images/imagenbase.jpg);
+    flex-direction: column;
+    background-image: url(https://concepto.de/wp-content/uploads/2013/08/salud-OMS-e1551914081412.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
-    align-items: center;
+    align-items: left;
     min-height: auto;
     padding: 15px 0;
 }

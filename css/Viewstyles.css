@@ -20,3 +20,27 @@
     text-align: center;
 
 }
+
+.header1 {
+    flex-direction: column;
+    background-image: url(Images/PrimerosAuxilios1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: left;
+    min-height: auto;
+    padding: 15px 0;
+}
+
+.header-content1 {
+    background-color: rgba(26, 28, 28, 0.5);
+    /* Fondo semitransparente para mejorar la legibilidad del texto */
+    padding: 15px 30px;
+    /* Espacio de relleno dentro del contenedor de contenido */
+    color: #ffffff;
+}
+
+.problems-items1 {
+    text-align: left;
+}

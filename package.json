@@ -1,0 +1,20 @@
+{
+  "name": "safety",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "clean": "rimraf dist",
+    "build": "npm run clean && parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "init": "^0.1.2",
+    "rimraf": "^5.0.5"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
+    "parcel": "^2.12.0"
+  }
+}

@@ -92,3 +92,32 @@
 .problems-items3 {
     text-align: left;
 }
+
+.header4 {
+    background-image: url(Images/imagenbase.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    min-height: auto;
+    padding: 15px 0;
+}
+
+.header-content4 {
+    background-color: rgba(26, 28, 28, 0.5);
+    /* Fondo semitransparente para mejorar la legibilidad del texto */
+    padding: 15px 30px;
+    /* Espacio de relleno dentro del contenedor de contenido */
+    color: #ffffff;
+}
+
+.pasos-items {
+    text-align: left;
+}
+
+.video-image{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}

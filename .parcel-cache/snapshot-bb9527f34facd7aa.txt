@@ -1,0 +1,8 @@
+7
+71C:\Users\jhoni\OneDrive\Documentos\IF\AppPrimerosAux\css\Viewstyles.css133554370674878741 0
+55C:\Users\jhoni\OneDrive\Documentos\IF\AppPrimerosAux\js133553795873630080 1
+56C:\Users\jhoni\OneDrive\Documentos\IF\AppPrimerosAux\css133554370674878741 1
+58C:\Users\jhoni\OneDrive\Documentos\IF\AppPrimerosAux\fonts133553793101593980 1
+58C:\Users\jhoni\OneDrive\Documentos\IF\AppPrimerosAux\Views133554370674878741 1
+75C:\Users\jhoni\OneDrive\Documentos\IF\AppPrimerosAux\Views\DanielViews.html133554371169537857 0
+63C:\Users\jhoni\OneDrive\Documentos\IF\AppPrimerosAux\js\main.js133553795873630080 0

@@ -44,3 +44,27 @@
 .problems-items1 {
     text-align: left;
 }
+
+.header2 {
+    flex-direction: column;
+    background-image: url(Images/PrimerosAuxilios2.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: left;
+    min-height: auto;
+    padding: 15px 0;
+}
+
+.header-content2 {
+    background-color: rgba(26, 28, 28, 0.5);
+    /* Fondo semitransparente para mejorar la legibilidad del texto */
+    padding: 15px 15px;
+    /* Espacio de relleno dentro del contenedor de contenido */
+    color: #ffffff;
+}
+
+.problems-items2 {
+    text-align: left;
+}

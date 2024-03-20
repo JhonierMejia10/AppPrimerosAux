@@ -1,0 +1,22 @@
+.container, .container-opciones {
+    width: 80%;
+    margin: 20px auto; /* Esto centrará horizontalmente y agregará un margen arriba y abajo */
+}
+
+.container {
+    width: 310px;
+    height: 650px;
+    padding: 10px;
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+
+}
+
+.container-opciones {
+    width: 310px;
+    height: 650px;
+    padding: 10px;
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+
+}
